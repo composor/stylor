@@ -1,0 +1,24 @@
+{
+  "name": "stylor",
+  "version": "1.0.0",
+  "description": "Create virtual stylesheets scoped to a component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/composor/stylor.git"
+  },
+  "keywords": [
+    "css",
+    "stylesheet",
+    "component"
+  ],
+  "author": "Robert Biggs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/composor/stylor/issues"
+  },
+  "homepage": "https://github.com/composor/stylor#readme"
+}
